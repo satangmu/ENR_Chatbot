@@ -4,8 +4,8 @@ from langchain.prompts import ChatPromptTemplate
 
 # Azure OpenAI를 사용하는 객체 생성
 chat = AzureChatOpenAI(
-    deployment_name='NursingAI',
-    model_name='gpt-35-turbo',
+    deployment_name='배포 이름',
+    model_name='모델 이름',
 )
 
 # 한국어 프롬프트 템플릿 생성
