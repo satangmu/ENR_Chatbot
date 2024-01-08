@@ -86,7 +86,7 @@ final_prompt = ChatPromptTemplate.from_messages(
 chain = final_prompt | chat
 
 # CSV 파일에서 데이터 불러오기
-df = pd.read_csv("fix_csvfile\\FOCUS_cleaned.csv")
+df = pd.read_csv("CSV 파일 경로")
 
 # 새로운 데이터셋
 new_dataset = []
