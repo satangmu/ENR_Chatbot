@@ -1,6 +1,10 @@
 # 기업연계 팀 프로젝트(디케이메디인포)
 - 프로젝트 기간: 2023.11 ~ 2023.12(6주)
 - 참여인원 : 4명
+
+|역할|담당업무|
+|--|--|
+|팀장|- 전체 일정 관리 및 회의 리드 <br> - 기존 전처리 코드에 정규식 코드 추가 <br> - LangChainFramework를 활용한 LLM 연결 코드 구현 <br> - Streamlit을 활용한 Chatbot 사이트 구현 |
 --- 
 ## 프로젝트 개요
 LLM을 적용한 전자간호기록 문구 자동 작성 챗봇 구현
@@ -14,7 +18,37 @@ LLM을 적용한 전자간호기록 문구 자동 작성 챗봇 구현
 ## 프로젝트 기술스택
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;![langchain](https://img.shields.io/badge/LangChain-EE4C2C?style=for-the-badge&logo=LangChain&logoColor=white)&nbsp;&nbsp;![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)&nbsp;&nbsp;![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 프로젝트 진행 과정
-|Description|Image|
-|--|--|
-|1. 데이터 수집|<img src="https://drive.google.com/file/d/1JCp74e2lS4uhHggvhg-nNtfs65Sr76Sg/view?usp=drive_link">
+
+1. 데이터 병합 및 기록양식 별 분리
+
+![스크린샷 2024-01-16 010548](https://github.com/satangmu/SmartNurse_Project/assets/148983269/f6a5d2d3-ac75-4485-8167-13c184d60221)
+
+2. 데이터 전처리
+
+![스크린샷 2024-01-16 013618](https://github.com/satangmu/SmartNurse_Project/assets/148983269/9ee05ea0-aac3-4293-88a3-8d2b86d99d76)
+
+![스크린샷 2024-01-16 013826](https://github.com/satangmu/SmartNurse_Project/assets/148983269/4ce4d26b-614f-48a9-8c59-edefdff635bd)
+
+3. 모델 파인튜닝
+   
+![스크린샷 2024-01-16 014245](https://github.com/satangmu/SmartNurse_Project/assets/148983269/a11eda99-ccbf-4874-aa3e-a86417c723fb)
+
+4. 프롬프트 튜닝
+
+![스크린샷 2024-01-16 014538](https://github.com/satangmu/SmartNurse_Project/assets/148983269/a57a4d03-6b87-48bd-ac54-b5a4cb59dd65)
+
+5. 결과
+
+![챗봇-데모영상2](https://github.com/satangmu/SmartNurse_Project/assets/148983269/3a96b23f-6261-4be1-831f-700c044ada70)
+
+## 느낀점
+### - 한계
+- LLM 을 Fine Tuning 하는 방법은 많은 비용이 발생 -> RAG 하이브리드 모델을 활용하는 방법 모색
+### - 개선 방안
+- 사용자에게 더욱 편리한 UI 환경 제공 
+
+
+
+  
