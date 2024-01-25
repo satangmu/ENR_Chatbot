@@ -49,10 +49,10 @@
 ![챗봇-데모영상2](https://github.com/satangmu/SmartNurse_Project/assets/148983269/3a96b23f-6261-4be1-831f-700c044ada70)
 
 ## 느낀점
-### - 한계
-- LLM 을 Fine Tuning 하는 방법은 많은 비용이 발생 -> RAG 하이브리드 모델을 활용하는 방법 모색
-### - 개선 방안
-- 사용자에게 더욱 편리한 UI 환경 제공 
+### - 비용 한계
+- LLM인 GPT3.5 model을 Fine Tuning 하는 방법은 많은 비용이 발생 -> RAG 하이브리드 모델을 활용하는 방법 모색
+### - 새로운 기술 활용
+- 데이터 전처리 하는데 시간을 많이 써서 프로젝트 기간 안에 Chatbot을 못 만들거라 판단 -> 프로젝트 기간 동안 남은 시간에 LangChain과 Streamlit을 배우면서 Chatbot을 만드는데 있어서 큰 기여를 함
 
 
 
