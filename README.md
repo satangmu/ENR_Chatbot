@@ -18,6 +18,11 @@
 ## 프로젝트 기술스택
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;![langchain](https://img.shields.io/badge/LangChain-EE4C2C?style=for-the-badge&logo=LangChain&logoColor=white)&nbsp;&nbsp;![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)&nbsp;&nbsp;![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 프로젝트 작업 흐름
+
+![스크린샷 2024-01-25 165428](https://github.com/satangmu/SmartNurse_Project/assets/148983269/2086421c-82d4-48b1-9644-8581c5b8caa1)
+
+
 
 ## 프로젝트 진행 과정
 
