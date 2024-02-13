@@ -20,7 +20,8 @@
 
 ## 프로젝트 작업 흐름
 
-![스크린샷 2024-01-25 165428](https://github.com/satangmu/SmartNurse_Project/assets/148983269/2086421c-82d4-48b1-9644-8581c5b8caa1)
+
+![스크린샷 2024-02-13 193853](https://github.com/satangmu/SmartNurse_Project/assets/148983269/87160e72-975f-4416-a891-45d48f80eba2)
 
 
 
