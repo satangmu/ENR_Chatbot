@@ -40,7 +40,7 @@
    
 ![스크린샷 2024-01-16 014245](https://github.com/satangmu/SmartNurse_Project/assets/148983269/a11eda99-ccbf-4874-aa3e-a86417c723fb)
 
-4. 프롬프트 튜닝
+4. 프롬프트 엔지니어링
 
 ![스크린샷 2024-01-16 014538](https://github.com/satangmu/SmartNurse_Project/assets/148983269/a57a4d03-6b87-48bd-ac54-b5a4cb59dd65)
 
