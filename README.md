@@ -1,3 +1,6 @@
+![챗봇-데모영상2](https://github.com/satangmu/SmartNurse_Project/assets/148983269/3a96b23f-6261-4be1-831f-700c044ada70)
+
+
 # 기업연계 팀 프로젝트(디케이메디인포)
 - 프로젝트 기간: 2023.11 ~ 2023.12(6주)
 - 참여인원 : 4명
@@ -43,11 +46,9 @@
 
 4. 프롬프트 엔지니어링
 
-![스크린샷 2024-01-16 014538](https://github.com/satangmu/SmartNurse_Project/assets/148983269/a57a4d03-6b87-48bd-ac54-b5a4cb59dd65)
+![스크린샷 2024-03-27 205510](https://github.com/satangmu/ENR_Chatbot/assets/148983269/3e08b974-41ba-4d11-b2b6-1d1c0eb7cafe)
 
-5. 결과
 
-![챗봇-데모영상2](https://github.com/satangmu/SmartNurse_Project/assets/148983269/3a96b23f-6261-4be1-831f-700c044ada70)
 
 ## 느낀점
 ### - 비용 한계
